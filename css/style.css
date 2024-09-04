@@ -51,15 +51,17 @@ img {
 }
 .hid{
   opacity: 0;
+  
 }
 .hovered {
   opacity: 1;
+  margin-right: 95px;
   background-color: black;
 }
 #tiresult{
   background-color: lightgray; 
   background-image: url('2caecb51e4ab2db68674cd7b6c170370.jfif');
-  background-size: 500px 600px;
+  background-size: 440px 600px;
   background-repeat: no-repeat;
   background-position: center; 
   
@@ -145,7 +147,7 @@ img {
 }
 .tg_header {
   padding: 20px;
-  position: fixed;
+  position: fixed;,
   top: 36px;
   left: 0px;
   z-index: 9;
