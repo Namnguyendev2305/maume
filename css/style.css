@@ -50,10 +50,10 @@ img {
   overflow: hidden;
 }
 .hid{
-  color: black;
+  opacity: 0;
 }
 .hovered {
-  color: white;
+  opacity: 1;
 }
 
 .row {
