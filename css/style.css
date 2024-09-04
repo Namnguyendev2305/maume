@@ -12,7 +12,7 @@ body {
   font-weight: 400;
   font-size: 13px;
   font-family: 'Mulish', sans-serif;
-
+  background-color: white;
 }
 
 ul,
@@ -54,8 +54,16 @@ img {
 }
 .hovered {
   opacity: 1;
+  background-color: black;
 }
-
+#tiresult{
+  background-color: lightgray; 
+  background-image: url('2caecb51e4ab2db68674cd7b6c170370.jfif');
+  background-size: 500px 600px;
+  background-repeat: no-repeat;
+  background-position: center; 
+  
+}
 .row {
   margin-right: -15px;
 
